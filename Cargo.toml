@@ -67,4 +67,4 @@ codegen-units = 1
 panic = "abort"
 
 [patch.crates-io]
-ledger-transport-hid = { git = "https://github.com/t-nelson/ledger-rs", rev = "e72673bf751dc51911326c2d6a77806896c5ace0" }
+ledger-transport-hid = { git = "https://github.com/t-nelson/ledger-rs", rev = "079aec71d3a146420468d2ac2c5b35c82beaa682" }
